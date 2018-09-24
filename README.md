@@ -1,7 +1,7 @@
-# aws-alb-http-listner
+# AWS ALB HTTP listeners
 This module is useful to create indivisual http listeners on application load balancer.
 
-## Module Usage
+## Usage
 
 module "listner1" {
   source = "custom_alb_listener_rule_http"
@@ -11,3 +11,6 @@ module "listner1" {
 }
 
 
+# License
+
+Apache 2 Licensed. See LICENSE for full details.
