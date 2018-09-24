@@ -1,4 +1,4 @@
-# AWS ALB HTTP listeners
+# AWS ALB HTTP LISTENER
 This module is useful to create indivisual http listeners on application load balancer.
 
 ## Usage
